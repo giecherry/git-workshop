@@ -1,6 +1,6 @@
 //* GIT WORKSHOP
 
-//Comments
+//Comment2
 
 let userName = input("Enter your name: ");
 
