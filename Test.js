@@ -1,5 +1,7 @@
 //* GIT WORKSHOP
 
+//Comments
+
 let userName = input("Enter your name: ");
 
 let age = input("Enter your age: ");
